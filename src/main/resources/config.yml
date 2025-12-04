@@ -1,0 +1,7 @@
+actions:
+  - '[command] time set day'
+  - '[message] &6&lПлагин на /links'
+  - '[message] &aПоддержка &cц&6в&eе&aт&9о&5в & § и &'
+commands:
+  - link
+  - links

@@ -1,0 +1,12 @@
+name: BlockLinks
+version: '1.0'
+main: org.rofu.blocklinks.BlockLinks
+api-version: '1.20'
+author: Rofu
+commands:
+  link:
+    description: показывает ссылки
+    usage: /link
+  links:
+    description: показывает ссылки
+    usage: /links
